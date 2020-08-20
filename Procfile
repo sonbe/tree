@@ -1,1 +1,1 @@
-web: tree_app.html
+web: node index.js
