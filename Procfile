@@ -1,1 +1,1 @@
-web: node index.js --log-file -
+web: node index.js
